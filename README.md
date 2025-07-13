@@ -2,7 +2,7 @@
 
 # 🏥 Hospital Management System
 
-A full-stack **Hospital Management System** built with **Spring Boot** and **MySQL** to manage patients, doctors, appointments, billing, inventory, and staff efficiently. This system supports CRUD operations, role-based access, and an intuitive UI for admin and users.
+A full-stack **Hospital Management System** built with **Spring Boot** and **MySQL** to manage patients, doctors, appointments, billing, inventory, and staff efficiently.
 
 ---
 
