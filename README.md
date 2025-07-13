@@ -1,4 +1,4 @@
-# HospitalManagementSystem-RESTFUL-API
+---
 
 # 🏥 Hospital Management System
 
@@ -8,28 +8,24 @@ A full-stack **Hospital Management System** built with **Spring Boot**, **MySQL*
 
 ## 🚀 Features
 
-- 👨‍⚕️ Manage Patients, Doctors, Appointments  
-- 🧾 Billing System with Invoices  
+- 👨‍⚕️ Doctor Management
+- 🩺 Patient Registration and Records
+- 📅 Appointment Booking and Tracking
 - 💊 Drug/Inventory Management  
-- 👩‍💼 Staff/Admin Panel  
-- 🗂️ CRUD Operations on All Entities  
-- 🔐 Role-based Login & Session Management  
-- 📊 Dashboard with Summary Views  
+- 👩‍💼 Staff Administration 
+- 🔄 Full CRUD support via REST APIs
 
 ---
 
 ## 🛠️ Technologies Used
 
-- ✅ Java 17+  
-- ✅ Spring Boot  
-- ✅ Spring Data JPA  
-- ✅ MySQL  
-- ✅ Lombok  
-- ✅ Thymeleaf  
-- ✅ HTML/CSS & Bootstrap  
-- ✅ Spring Security (if used)
-
+- Java 17+  
+- Spring Boot  
+- Spring Data JPA
+- Spring Web 
+- MySQL  
+- Lombok  
+- Maven
+  
 ---
-
-## 📂 Project Structure
 
